@@ -1,21 +1,21 @@
-# 🚀 My CI/CD Project
+# My CI/CD Project
 
 A simple project demonstrating the implementation of CI/CD (Continuous Integration and Continuous Deployment) using modern DevOps practices.
 
-## 📌 Overview
+## Overview
 
 This project showcases how to automate:
 - Building the application
 - Running tests
 - Deploying code automatically
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 - Git & GitHub
 - GitHub Actions (CI/CD pipeline)
 - JavaScript
 
-## 🔄 CI/CD Workflow
+## CI/CD Workflow
 
 Triggered on:
 - Push to repository
@@ -28,14 +28,14 @@ Steps:
 4. Build project
 5. Deploy
 
-## 📁 Project Structure
+## Project Structure
 
 my-cicd-project/
 │── .github/workflows/
 │── src/
 │── README.md
 
-## ▶️ Getting Started
+## Getting Started
 
 ```bash
 git clone https://github.com/MarmikGandhi/my-cicd-project.git
@@ -56,7 +56,7 @@ npm start
 python app.py
 ```
 
-## 🧪 Running Tests
+## Running Tests
 
 ```bash
 npm test
@@ -64,18 +64,18 @@ npm test
 pytest
 ```
 
-## 🚀 Deployment
+## Deployment
 
 Automated via GitHub Actions after successful tests.
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork repo
 2. Create branch
 3. Commit changes
 4. Open PR
 
-## 📄 License
+## License
 
 MIT License
 
